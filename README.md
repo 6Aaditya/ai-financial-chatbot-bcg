@@ -25,6 +25,10 @@ The chatbot reads structured financial data and responds to predefined queries a
 
 ---
 
+## Chatbot Demo
+
+![Chatbot Demo](chatbot_demo.png)
+
 ## Features
 
 - Financial data extraction and preprocessing

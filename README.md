@@ -75,6 +75,12 @@ Example queries the AI version can answer:
 
 ---
 
+## AI-Based Chatbot Demo
+
+![AI-Based Chatbot Demo](ai_chatbot/gemini_financial_chatbot.png)
+
+---
+
 # Fallback Analysis System
 
 During development, it was discovered that API limits or quota restrictions could prevent the AI model from responding.
